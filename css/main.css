@@ -267,11 +267,13 @@ blockquote p {
   font-size: 1rem;
 }
 
+/*
 @media (max-width: 30em) {
   .social-icons {
     float: left;
   }
 }
+*/
 
 /*
   Code
