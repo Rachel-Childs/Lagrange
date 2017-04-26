@@ -2,7 +2,7 @@
 layout: post
 title: "Let's start at the very beginning!"
 categories: journal
-tags: [documentation,sample]
+tags: [Winston, beagle]
 image:
   feature: mountains.jpg
   teaser: mountains-teaser.jpg
