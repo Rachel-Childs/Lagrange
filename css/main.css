@@ -138,6 +138,11 @@ blockquote p {
   color: #505050;
 }
 
+.masthead-subtitle-wrap {
+  display: inline-block;
+  word-wrap: break-word;
+}
+
 .masthead-subtitle {
   color: #999;
 }
