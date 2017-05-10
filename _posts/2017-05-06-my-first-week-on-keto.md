@@ -5,7 +5,7 @@ categories: journal
 tags: [Health, Keto, Food]
 image:
   feature: IMG_0295.jpg
-  teaser: IMG_0295.jpg
+  teaser: ketoteaser.jpg
   credit:
   creditlink:
 ---
