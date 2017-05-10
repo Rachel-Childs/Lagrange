@@ -1,6 +1,19 @@
 ---
-published: false
+published: true
 ---
+---
+layout: post
+title: "My first week on Keto..."
+categories: journal
+tags: [Health, Keto, food]
+image:
+  feature: mountains.jpg
+  teaser: mountains-teaser.jpg
+  credit:
+  creditlink:
+---
+
+
 ## My First week on Keto...
 
 I'm at the hair dresser, waiting for my balayage to develop, sipping on my peppermint tea - with a delicious looking piece of caramel slice staring me in the face.
