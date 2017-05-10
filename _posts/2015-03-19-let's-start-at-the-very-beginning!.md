@@ -4,8 +4,8 @@ title: "Let's start at the very beginning!"
 categories: journal
 tags: [Winston, beagle]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
+  feature: beachywin.jpg
+  teaser: beachywin.jpg
   credit:
   creditlink:
 ---
