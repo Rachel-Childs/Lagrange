@@ -13,7 +13,6 @@ image:
   creditlink:
 ---
 
-
 ## My First week on Keto...
 
 I'm at the hair dresser, waiting for my balayage to develop, sipping on my peppermint tea - with a delicious looking piece of caramel slice staring me in the face.
