@@ -7,8 +7,8 @@ title: "My first week on Keto..."
 categories: journal
 tags: [Health, Keto, food]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
+  feature: IMG_0295.jpg
+  teaser: IMG_0295.jpg
   credit:
   creditlink:
 ---
@@ -40,4 +40,3 @@ I’ve made ‘bread’, some chocolate mousse, and am focusing on eating whole 
 Week one and getting over the ‘keto flu’ - look it up, it’s a thing - feeling tired, irritable (when aren’t I?!), and headachy, I now feel fuller for longer, I’m not eating as much, and my energy levels are up. Win:Win! Additionally, the scales are looking promising, although Ketosis has a diuretic effect, meaning the water weight goes quickly (hence hydration is key)!
 
 Will I keep up with it long term? I’m concerned about pressures from the outside world...dinner dates, brunches, Fri-yay night drinks, tracking macros. I’ve committed to trying it for two weeks, and will reassess after that - but I’m loving the effects so far.
-
